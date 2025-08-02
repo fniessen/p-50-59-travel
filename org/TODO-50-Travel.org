@@ -1,0 +1,142 @@
+#+TITLE:     Travel
+#+AUTHOR:    Fabrice Niessen
+#+EMAIL:     (concat "fni" at-sign "pirilampo.be")
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  fr
+#+OPTIONS:   H:4 num:t toc:3
+
+#+FILETAGS:  :personal:travel:
+#+SETUPFILE: ~/org/theme-readtheorg.setup
+
+* Tasks
+
+** TODO Aller à Vienna ou Maastricht à Noël
+SCHEDULED: <2025-10-01 Wed>
+
+Loger à https://view.community.thesocialhub.co/
+
+** TODO Organiser un city-trip à Paris avec les enfants
+
+- *La Cité des Sciences et de l'Industrie :* Un lieu interactif qui offre des
+  expositions scientifiques passionnantes.
+
+** MAYB S'inscrire sur https://www.homeexchange.fr/
+
+** MAYB Planifier les vacances au Puy-du-Fou
+
+** MAYB Lieu.insolite Albanie
+
+* New-York avec Lydiane
+
+| Connections | Aller                  | Retour                 | Hotel                         | Prix pp |   Total |
+|-------------+------------------------+------------------------+-------------------------------+---------+---------|
+| Namur       | [2025-10-25 Sat 10:35] | [2025-10-30 Thu 19:25] | Hampton Inn Brooklyn Downtown | 1619.00 | 3238.00 |
+| Namur       | [2025-10-18 Sat 10:35] | [2025-10-23 Thu 18:10] | Kixby                         | 1719.00 | 3438.00 |
+| Liège       | [2025-10-18 Sat 10:35] | [2025-10-23 Thu 18:10] | Kixby                         | 1729.00 | 3458.00 |
+| Liège       | [2025-08-16 Sat]       | [2025-08-21 Thu]       | Romer Hell's kitchen          | 1609.00 | 3218.00 |
+| Verviers    | [2025-10-18 Sat 10:35] | [2025-10-23 Thu 18:10] | Kixby                         | 1764.00 | 3528.00 |
+
+Concernant le tarif « à partir de » mentionné, Namur voit que ce serait pour la
+période des grandes vacances dans l'hôtel *Hampton Inn Brooklyn Downtown* sur base
+d'une chambre pour 4 personnes.
+
+** Mes recherches de vols
+
+| Aller            | Retour           |   | Skyscanner | Google Flight | Kayak eDreams |
+|------------------+------------------+---+------------+---------------+---------------|
+| [2025-09-04 Thu] | [2025-09-08 Mon] | 4 |        398 |           417 |           400 |
+| [2025-11-06 Thu] | [2025-11-10 Mon] | 4 |        398 |           417 |           387 |
+| [2025-11-13 Thu] | [2025-11-17 Mon] | 4 |        404 |           417 |           387 |
+|------------------+------------------+---+------------+---------------+---------------|
+| [2025-09-02 Tue] | [2025-09-07 Sun] | 5 |        398 |           417 |           387 |
+| [2025-10-04 Sat] | [2025-10-09 Thu] | 5 |        398 |           417 |           488 |
+| [2025-10-18 Sat] | [2025-10-23 Thu] | 5 |        536 |           545 |           519 |
+| [2025-10-25 Sat] | [2025-10-30 Thu] | 5 |        944 |           944 |           N/A |
+| [2025-11-08 Sat] | [2025-11-13 Thu] | 5 |        404 |           417 |           387 |
+|------------------+------------------+---+------------+---------------+---------------|
+| [2025-08-31 Sun] | [2025-09-06 Sat] | 6 |        398 |           417 |          488! |
+| [2025-09-03 Wed] | [2025-09-09 Tue] | 6 |        398 |           417 |           387 |
+| [2025-11-07 Fri] | [2025-11-13 Thu] | 6 |        398 |           417 |           386 |
+| [2025-11-09 Sun] | [2025-11-15 Sat] | 6 |        404 |           417 |           488 |
+#+TBLFM: $3=$2-$1
+
+** TODO [#A] Faire faire un passeport à la Commune
+SCHEDULED: <2025-09-01 Mon>
+
+** TODO [#A] Rechercher les prix des vols pour New York (Lydiane)
+
+https://www.connections.be/nl-be/citytrip/new-york/schoolvakanties
+
+** TODO Recherche d'hôtels
+
+https://www.trivago.com/
+
+* Checklists
+
+Lists of steps or items to ensure completeness in various activities and tasks.
+
+** Travel packing checklist
+
+Oublis vacances :
+- cable usb ancien
+- attache élastique pour le GSM sur le vélo
+- thunderbolt pour lire grosse clé usb à partir du nouveau pc
+- casquette / lunettes de soleil
+- jeu de cartes
+
+Pour le vélo :
+- chaussures de sport
+- spuitbus pour pneu plat
+- convertisseur connecteur pneu
+
+*** Clothes
+
+*** Accessories
+
+*** Toiletries
+
+- Solar Cream
+- Nail clipper
+
+*** Medical kit
+
+- Bandages
+
+*** Electronic devices
+
+- Bluetooth Speaker
+- Laptop (+ Mouse)
+- Laptop Sunshade
+- Chargers (Laptop, etc.)
+- Power Bank
+
+*** Other items
+
+- Tissues
+
+*** Important items
+
+- Passport / ID
+- Cash
+
+* Routines
+
+Regular, recurring tasks and habits that need to be maintained.
+
+** Daily
+
+** Weekly
+
+** Monthly
+
+** Quarterly
+
+** Semiannually
+
+** Yearly
+
+*** TODO [#A] Routine / Planifier les vacances d'été (lieu et dates)
+DEADLINE: <2026-01-17 Sat>
+
+** Inactive
